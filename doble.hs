@@ -1,1 +1,1 @@
-doble x = x*2
+doble x = x+x
